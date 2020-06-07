@@ -14,3 +14,6 @@ $ nmap 192.168.1.0/24 > log
 ```
 time python3 many_ssh.py > log1
 ```
+
+# Reference:
+https://stackoverflow.com/questions/3586106/perform-commands-over-ssh-with-python
